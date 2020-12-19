@@ -1,0 +1,3 @@
+Cupom fiscal:
+['Nome:', 'Nicolas', 'Endereço:', 'Rua', 'Forma de pagamento:', '2- Dinheiro']
+['Pedido:', 'Laranja comum (4 Unidades) = ', 'Quantidade:', 3, 'Preço: R$', 6.0, 'Total - R$', 6.0]
